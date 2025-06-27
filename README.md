@@ -1,8 +1,9 @@
 Hi 👋 My name is Sasha Zhernovaya
 =================================
 
-* 🌍  I'm based in Voronezh, Russia
-* ✉️  You can contact me at [shushara2005@yandex.ru](mailto:shushara2005@yandex.ru)
+* 🌍  I'm based in Voronezh, Russia
+* ✉️  You can contact me at [shushara2005@yandex.ru](mailto:shushara2005@yandex.ru)
+* 🧠  Higher education at the Faculty of Computer Science, VSU, (unfinished)
 
 ### Skills
 
